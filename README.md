@@ -10,7 +10,7 @@ The GitHub repository contains two files:
 
 1. A single MATLAB Live Script that contains all of our combined reflections, evaluations, and analysis based on multiple MathWorks self-paced learning modules. All sections are clearly labeled using headers.
 
-2. A read me file which provides an overview of the project, file contents, how to interact with the material, and a breakdown of collaboration between students.
+2. A README.md file which provides an overview of the project, file contents, how to interact with the material, and a breakdown of collaboration between students.
 
 # How to Interact With the Project
 
@@ -20,9 +20,9 @@ To view or interact with the project: Open MATLAB and open the .mlx file. Naviga
 
 Two modules were reviewed which included:
 
-1. Engineering and Problem Solving which focused on systems thinking, physical simulations (bungee jumping, drones), and modeling using Simulink.
+1. [Engineering and Problem Solving](https://github.com/MathWorks-Teaching-Resources/Engineering-Problem-Solving) which focused on systems thinking, physical simulations (bungee jumping, drones), and modeling using Simulink.
 
-2. Machine Learning for Regression where we used the Regression Learner App, examined feature engineering, model training, and advanced extensions including programmatic and deep learning.
+2. [Machine Learning for Regression](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression) where we used the Regression Learner App, examined feature engineering, model training, and advanced extensions including programmatic and deep learning.
 
 Each module was accompanied by: reading accompanying materials, interacting with models and apps provided, testing simulations and visual outputs, and reflecting on learning value, ease of use, and educational structure.
 
