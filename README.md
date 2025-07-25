@@ -4,6 +4,13 @@ This project explores a series of MathWorks self-paced learning modules intended
 
 The goal of this project was to evaluate these modules from a student perspective, reflecting on their usefulness, engagement, structure, coding requirements, and content delivery.
 
+# Project Members
+
+- Ashley Chiu (She / Her)
+- Anna Kubrak (She / Her)
+- Diego Gonzalez (He / Him)
+- Ingrid Barrera (She / Her)
+
 # File Layout
 
 The GitHub repository contains two files:
